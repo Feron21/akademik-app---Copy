@@ -1,5 +1,10 @@
 <h1>SISTEM MANAJEMEN AKADEMIK</h1>
 
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/7c14a2cf-89a1-4509-8c32-86656ab2eb63" width="400" height="300"><h3>Sistem Akademik</h3></div>
+
+
 <p>
 Sistem Manajemen Akademik adalah aplikasi berbasis web yang dibangun menggunakan Laravel dan Laravel Filament untuk mempermudah proses akademik, termasuk pelacakan absensi dan notifikasi keterlambatan otomatis bagi Administrator, Dosen, dan Mahasiswa.
 </p>
